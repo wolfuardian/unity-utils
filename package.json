@@ -1,0 +1,19 @@
+{
+  "name": "com.mycompany.mypackage",
+  "version": "1.0.0",
+  "displayName": "My Package",
+  "description": "This is my custom Unity package.",
+  "unity": "2019.1",
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2"
+  ],
+  "author": {
+    "name": "My Name",
+    "email": "myemail@example.com",
+    "url": "https://www.mywebsite.com"
+  }
+}
